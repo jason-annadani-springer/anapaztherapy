@@ -1,0 +1,30 @@
+body {
+    font-family: "Segoe UI", Arial, sans-serif;
+}
+
+.bg-img {
+    background-image: url("homepage.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.white-centered {
+    color: white;
+    text-align: center;
+}
+
+.header {
+    position: sticky;
+    top: 0;
+    padding: 10px 16px;
+    background-color: #F9F9F9;
+}
+.cursive {
+    font-family: "Bradley Hand", Arial, sans-serif;
+    display: inline;
+}
+
+/* Right-aligned section inside the navigation */
+.nav-right {
+    float: right;
+}
