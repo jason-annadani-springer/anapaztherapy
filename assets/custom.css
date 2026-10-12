@@ -31,8 +31,3 @@ body {
     flex-wrap: nowrap;              /* default value; can be omitted */
     justify-content: space-between; /* switched from default (flex-start, see below) */
 }
-
-/* Right-aligned section inside the navigation */
-.nav-right {
-    float: right;
-}
