@@ -1,5 +1,4 @@
 * check accessibility
-* extract styles, nav etc
-* shrinkable logo
+* extract nav, header? 
 * can we change the nav boxes? 
-* use more than centre
+* sitemap, robots.txt
