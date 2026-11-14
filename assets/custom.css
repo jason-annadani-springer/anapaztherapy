@@ -1,5 +1,6 @@
 body {
     font-family: "Segoe UI", Arial, sans-serif;
+    grid-template-columns: 1fr 90% 1fr;
 }
 
 .bg-img {
@@ -14,6 +15,7 @@ body {
 }
 
 .white-on-red {
+    color: white;
     background: red;
 }
 
