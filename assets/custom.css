@@ -45,4 +45,23 @@ body {
     justify-content: space-evenly;
 }
 
+.wrap-row img {
+    max-width: 100%;
+    height: auto;
+    /* Maintain aspect ratio */
+    flex: 1 1 auto;
+    /* Allow images to grow and shrink */
+    object-fit: cover;
+}
 
+/* Optional: Add media queries for responsiveness */
+@media (max-width: 600px) {
+    .wrap-row img {
+        flex: 1 1 100%;
+        /* Full width on small screens */
+    }
+    .wrap-row div {
+        flex: 1 1 100%;
+        /* Full width on small screens */
+    }
+}
