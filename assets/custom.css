@@ -19,6 +19,10 @@ body {
     background: red;
 }
 
+.white-on-red:visited {
+    color:white;
+}
+
 .header {
     position: sticky;
     top: 0;
