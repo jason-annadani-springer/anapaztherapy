@@ -20,6 +20,12 @@ body {
     color: white;
 }
 
+.white-on-olive {
+    background-color: #757F67;
+    text-align: center;
+    color: white;
+}
+
 .white-on-red {
     color: white;
     background: red;
@@ -54,6 +60,7 @@ body {
     flex-wrap: nowrap;
     justify-content: space-evenly;
 }
+
 .icon-link-container {
     display: flex;
     flex-direction: column;
