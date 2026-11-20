@@ -15,7 +15,7 @@ body {
 }
 
 .white-on-teal {
-    background-color: #587E8A;
+    background-color: #91A2BA;
     text-align: center;
     color: white;
 }
@@ -40,6 +40,10 @@ body {
     top: 0;
     padding: 10px 16px;
     background-color: #F9F9F9;
+}
+
+header nav a {
+    border: none;
 }
 
 .cursive {
