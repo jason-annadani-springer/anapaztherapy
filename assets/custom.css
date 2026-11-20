@@ -9,6 +9,11 @@ body {
     background-size: cover;
 }
 
+.padded2 {
+    padding-left: 2%;
+    padding-right:2%;
+}
+
 .white-centered {
     color: white;
     text-align: center;
@@ -19,6 +24,8 @@ body {
     text-align: center;
     color: white;
 }
+
+/*655F55 595959*/
 
 .white-on-olive {
     background-color: #757F67;
