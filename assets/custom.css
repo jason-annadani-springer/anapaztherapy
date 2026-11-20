@@ -53,6 +53,10 @@ header nav a {
     border: none;
 }
 
+details {
+    background-color: #F9F9F9;
+}
+
 .cursive {
     font-family: "Bradley Hand", Arial, sans-serif;
     display: inline;
